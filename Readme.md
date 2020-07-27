@@ -144,3 +144,13 @@ The image labels are NLP extracted so there could be some erroneous labels but t
 
 **Algorithm Performance Standard:** The algorithm performance has been validated using F1-score. The F1 score combines both precision and recall. F1 score allows us to better measure a test’s accuracy when there are class imbalances. We got an F1-score of 0.5 which is better than radiologist average F1-score of 0.387.
 
+-----
+
+## Acknowledgement
+
+This project has been completed as a part of [AI for Healthcare](https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320).
+
+## License
+
+This project is licensed under the terms of MIT License.
+
